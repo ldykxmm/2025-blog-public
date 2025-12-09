@@ -1,1 +1,15 @@
-[]
+[
+	{
+		"name": "edgetunnel",
+		"year": 2025,
+		"image": "blob:https://blog.burnham.xin/6091433a-c32d-4f5f-93b3-3a091b20f796",
+		"url": "https://wall.burnham.asia/admin",
+		"description": "依靠cmliu大佬的贡献搭建的vless代理",
+		"tags": [
+			"vless",
+			"js",
+			"cloudflare"
+		],
+		"github": "https://github.com/cmliu/edgetunnel"
+	}
+]
