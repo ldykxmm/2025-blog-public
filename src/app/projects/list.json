@@ -61,5 +61,35 @@
 			"img",
 			"电报"
 		]
+	},
+	{
+		"name": "用68种语言说爱你",
+		"year": 2025,
+		"image": "blob:https://blog.burnham.xin/e12f3903-022f-4ae3-b8f0-c63dc5f35d3a",
+		"url": "http://rotate.burnham.xin/",
+		"description": "这是一个表达爱的方式的html",
+		"tags": [
+			"html"
+		]
+	},
+	{
+		"name": "雪花破碎",
+		"year": 2025,
+		"image": "blob:https://blog.burnham.xin/676631f7-c2ad-43b1-ba55-c284aa78abe7",
+		"url": "https://love.burnham.xin/",
+		"description": "这是一个雪花爱心",
+		"tags": [
+			"html"
+		]
+	},
+	{
+		"name": "抖音",
+		"year": 2025,
+		"image": "blob:https://blog.burnham.xin/940cae97-ed2a-4d90-a0cd-087f6d3ade6c",
+		"url": "http://dy.burnham.xin/",
+		"description": "这是高仿抖音",
+		"tags": [
+			"vue"
+		]
 	}
 ]
