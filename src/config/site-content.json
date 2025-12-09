@@ -30,16 +30,24 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "2b78bffdb714f2d0",
+			"url": "/images/art/2b78bffdb714f2d0.jpg"
 		}
 	],
-	"currentArtImageId": "cat",
+	"currentArtImageId": "2b78bffdb714f2d0",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "127e52ddd83230af",
+			"url": "/images/background/127e52ddd83230af.jpg"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "127e52ddd83230af",
 	"socialButtons": [
 		{
 			"id": "github",
