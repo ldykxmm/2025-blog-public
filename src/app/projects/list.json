@@ -9,7 +9,57 @@
 			"vless",
 			"js",
 			"cloudflare"
-		],
-		"github": "https://github.com/cmliu/edgetunnel"
+		]
+	},
+	{
+		"name": "ech worker",
+		"year": 2025,
+		"image": "blob:https://blog.burnham.xin/e1acdc56-2211-46d8-96a1-1bfb12862d95",
+		"url": "https://ech.burnham.asia",
+		"description": "身份令牌az666222",
+		"tags": [
+			"ech"
+		]
+	},
+	{
+		"name": "订阅转换",
+		"year": 2025,
+		"image": "blob:https://blog.burnham.xin/c5c3fdb7-4ffa-4f9d-9699-28d918e3820d",
+		"url": "https://sub.burnham.asia/",
+		"description": "这是一个订阅转换网页",
+		"tags": [
+			"订阅转换"
+		]
+	},
+	{
+		"name": "在线邮箱",
+		"year": 2025,
+		"image": "blob:https://blog.burnham.xin/d2f5499e-dfdc-4e7f-9182-c5c6b13e602f",
+		"url": "https://mail.burnham.xin",
+		"description": "这是一个在线邮箱",
+		"tags": [
+			"email"
+		]
+	},
+	{
+		"name": "私密聊天室",
+		"year": 2025,
+		"image": "blob:https://blog.burnham.xin/cf37c173-7dd5-4e24-abb3-4b7f2c061f06",
+		"url": "https://chat.burnham.xin/",
+		"description": "这是一个聊天室",
+		"tags": [
+			"chat"
+		]
+	},
+	{
+		"name": "电报图床",
+		"year": 2025,
+		"image": "blob:https://blog.burnham.xin/47fa4d62-9322-44fe-af40-54996121d6f3",
+		"url": "img.burnham.xin",
+		"description": "这是一个基于电报为平台的图床网站",
+		"tags": [
+			"img",
+			"电报"
+		]
 	}
 ]
